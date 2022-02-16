@@ -1,0 +1,32 @@
+.speech{
+font-size: large;
+color: black;
+}
+
+.direction:hover{
+font-size: large;
+color: black;
+background-color: lightblue
+
+}
+
+.name{
+font-size: larger;
+color: black;
+}
+
+.tri{
+color: red;
+}
+
+.phi{
+color: green;
+}
+
+.bel{
+color: blue;
+}
+
+.arm{
+color: yellow;
+}

@@ -30,3 +30,18 @@ color: blue;
 .arm{
 color: yellow;
 }
+
+th, td {
+border: 1px solid black;
+text-align: center;
+padding: 12px;
+margin: 1in;
+}
+
+th {
+    background-color: limegreen;
+}
+
+tr:nth-child(even){
+    background-color: gainsboro;
+}
